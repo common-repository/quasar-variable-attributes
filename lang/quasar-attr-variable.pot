@@ -1,0 +1,709 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Quasar Form Woocommerce add-on\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Myname <nucleusgenius@mail.com>\n"
+"Language-Team: nucleusgenius\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: admin.php:12
+msgid "Version"
+msgstr ""
+
+#: admin.php:19
+msgid "Attributes"
+msgstr ""
+
+#: admin.php:20
+msgid "Settings"
+msgstr ""
+
+#: admin.php:21
+msgid "Design"
+msgstr ""
+
+#: admin.php:22 admin.php:960
+msgid "Localization"
+msgstr ""
+
+#: admin.php:23
+msgid "Import/export settings"
+msgstr ""
+
+#: admin.php:29 admin.php:452 admin.php:453 admin.php:508 admin.php:509
+#: admin.php:595 admin.php:596 admin.php:659 admin.php:660 admin.php:760
+#: admin.php:761 admin.php:795 admin.php:796 admin.php:809 admin.php:810
+#: admin.php:823 admin.php:824 admin.php:847 admin.php:848 admin.php:861
+#: admin.php:862 admin.php:1061
+msgid "Yes"
+msgstr ""
+
+#: admin.php:30 admin.php:454 admin.php:455 admin.php:510 admin.php:511
+#: admin.php:597 admin.php:598 admin.php:661 admin.php:662 admin.php:763
+#: admin.php:764 admin.php:797 admin.php:798 admin.php:811 admin.php:812
+#: admin.php:825 admin.php:826 admin.php:849 admin.php:850 admin.php:863
+#: admin.php:864 admin.php:1062
+msgid "No"
+msgstr ""
+
+#: admin.php:36
+msgid "Add attributes and style them to fit your needs."
+msgstr ""
+
+#: admin.php:45
+msgid "Add attributes"
+msgstr ""
+
+#: admin.php:50
+msgid "Сlick on an attribute to style it"
+msgstr ""
+
+#: admin.php:138
+msgid "Attribute design:"
+msgstr ""
+
+#: admin.php:146
+msgid "Additional customization:"
+msgstr ""
+
+#: admin.php:154
+msgid "Attribute tooltip:"
+msgstr ""
+
+#: admin.php:158
+msgid "Note. If an attribute or attribute value is not in the product published on the site, then this attribute or value may not be in the plugin."
+msgstr ""
+
+#: admin.php:159
+msgid "If you have changed the attribute name, then in order for its name to change on the site, you need to click the \"save\" button in the plugin."
+msgstr ""
+
+#: admin.php:160
+msgid "If you have changed the attribute slug, then this attribute must be removed from the plugin and re-added."
+msgstr ""
+
+#: admin.php:175
+msgid "Block design with variations in the product card:"
+msgstr ""
+
+#: admin.php:176
+msgid "Attribute design is set in the \"Attributes\" section, in this section you configure the design of the block in which the attributes will be displayed."
+msgstr ""
+
+#: admin.php:182 admin.php:191 admin.php:200 admin.php:259 admin.php:315
+#: admin.php:324 admin.php:333 admin.php:403
+msgid "Attribute name"
+msgstr ""
+
+#: admin.php:184 admin.php:193 admin.php:205 admin.php:317 admin.php:326
+#: admin.php:338
+msgid "Value 1"
+msgstr ""
+
+#: admin.php:185 admin.php:194 admin.php:206 admin.php:318 admin.php:327
+#: admin.php:339
+msgid "Value 2"
+msgstr ""
+
+#: admin.php:186 admin.php:195 admin.php:207 admin.php:319 admin.php:328
+#: admin.php:340
+msgid "Value 3"
+msgstr ""
+
+#: admin.php:226 admin.php:373
+msgid "Style"
+msgstr ""
+
+#: admin.php:229 admin.php:230 admin.php:376 admin.php:377
+msgid "style-1"
+msgstr ""
+
+#: admin.php:231 admin.php:232 admin.php:378 admin.php:379
+msgid "style-2"
+msgstr ""
+
+#: admin.php:238 admin.php:386
+msgid "Spacing between attributes"
+msgstr ""
+
+#: admin.php:244 admin.php:392 admin.php:1057
+msgid "Padding: left, right, top, bottom"
+msgstr ""
+
+#: admin.php:254
+msgid "Maximum width"
+msgstr ""
+
+#: admin.php:263 admin.php:407
+msgid "Spacing between name and value"
+msgstr ""
+
+#: admin.php:268 admin.php:412
+msgid "Spacing between values"
+msgstr ""
+
+#: admin.php:273 admin.php:418 admin.php:461
+msgid "Color"
+msgstr ""
+
+#: admin.php:278 admin.php:423 admin.php:466 admin.php:527 admin.php:1049
+msgid "Font size"
+msgstr ""
+
+#: admin.php:283
+msgid "font weight"
+msgstr ""
+
+#: admin.php:303
+msgid "Output in categories is disabled in the settings"
+msgstr ""
+
+#: admin.php:304
+msgid "Block design with variations in categories:"
+msgstr ""
+
+#: admin.php:353 admin.php:964 admin.php:965
+#: quasar-variable-attributes-main.php:350
+#: quasar-variable-attributes-main.php:351
+msgid "Add to cart"
+msgstr ""
+
+#: admin.php:428 admin.php:471 admin.php:532
+msgid "Font weight"
+msgstr ""
+
+#: admin.php:445
+msgid "Price"
+msgstr ""
+
+#: admin.php:449 admin.php:505 admin.php:592
+msgid "Enable design from plugin"
+msgstr ""
+
+#: admin.php:487
+msgid "Price indent"
+msgstr ""
+
+#: admin.php:492
+msgid "Price align"
+msgstr ""
+
+#: admin.php:501
+msgid "Button add to cart"
+msgstr ""
+
+#: admin.php:517
+msgid "Font color"
+msgstr ""
+
+#: admin.php:522 admin.php:614 admin.php:1051
+msgid "Background color"
+msgstr ""
+
+#: admin.php:548
+msgid "Button indent"
+msgstr ""
+
+#: admin.php:553
+msgid "Button align"
+msgstr ""
+
+#: admin.php:563
+msgid "Button padding: left, right, top, bottom"
+msgstr ""
+
+#: admin.php:573 admin.php:1055
+msgid "Border width"
+msgstr ""
+
+#: admin.php:578 admin.php:619 admin.php:1054
+msgid "Border color"
+msgstr ""
+
+#: admin.php:583 admin.php:629 admin.php:1056
+msgid "Border radius"
+msgstr ""
+
+#: admin.php:588
+msgid "Field quantity"
+msgstr ""
+
+#: admin.php:588
+msgid "Field disabled in settings"
+msgstr ""
+
+#: admin.php:604
+msgid "Number color"
+msgstr ""
+
+#: admin.php:609
+msgid "Number size"
+msgstr ""
+
+#: admin.php:624
+msgid "Border widh"
+msgstr ""
+
+#: admin.php:635
+msgid "Quantity padding: left, right, top, bottom"
+msgstr ""
+
+#: admin.php:653
+msgid "Main settings"
+msgstr ""
+
+#: admin.php:666
+msgid "Show block of variations in categories."
+msgstr ""
+
+#: admin.php:669
+msgid "Block location with variations"
+msgstr ""
+
+#: admin.php:673
+msgid "Product Card"
+msgstr ""
+
+#: admin.php:676
+msgid "After a short description (this option will function with a product without price)"
+msgstr ""
+
+#: admin.php:677
+msgid "Above the short description"
+msgstr ""
+
+#: admin.php:679 admin.php:680 admin.php:722
+msgid "After add to cart button"
+msgstr ""
+
+#: admin.php:682 admin.php:683
+msgid "Before quantity input field"
+msgstr ""
+
+#: admin.php:686 admin.php:687
+msgid "Product meta end"
+msgstr ""
+
+#: admin.php:692 admin.php:731
+msgid "Priority"
+msgstr ""
+
+#: admin.php:714
+msgid "Select the position of the variable in the product card."
+msgstr ""
+
+#: admin.php:719
+msgid "Category"
+msgstr ""
+
+#: admin.php:723
+msgid "Before add to cart button"
+msgstr ""
+
+#: admin.php:725 admin.php:726
+msgid "Before shop loop item"
+msgstr ""
+
+#: admin.php:753
+msgid "Select the position of the variable in the archive and category pages."
+msgstr ""
+
+#: admin.php:768
+msgid "Show a block of variations in products with zero stock."
+msgstr ""
+
+#: admin.php:772
+msgid "Display settings in categories"
+msgstr ""
+
+#: admin.php:778 admin.php:779
+msgid "To the left of the price"
+msgstr ""
+
+#: admin.php:780 admin.php:781
+msgid "To the right of the price"
+msgstr ""
+
+#: admin.php:785
+msgid "Сurrency icon position."
+msgstr ""
+
+#: admin.php:802
+msgid "Redirect to the shopping cart page after purchasing the product."
+msgstr ""
+
+#: admin.php:816
+msgid "Show quantity field in categories."
+msgstr ""
+
+#: admin.php:830
+msgid "Сhange the product image to the image of the selected variation. This option will not work in all themes."
+msgstr ""
+
+#: admin.php:840
+msgid "Product image class in product category."
+msgstr ""
+
+#: admin.php:854
+msgid "Show variations in related products."
+msgstr ""
+
+#: admin.php:868
+msgid "Show variations in upsell."
+msgstr ""
+
+#: admin.php:871
+msgid "Responsiveness settings"
+msgstr ""
+
+#: admin.php:897
+msgid "Select the display size from which the mobile mode will be activated in the options block in the product category."
+msgstr ""
+
+#: admin.php:904 admin.php:905
+msgid "Do not hide variable"
+msgstr ""
+
+#: admin.php:927
+msgid "Hide block with variables in categories at display size."
+msgstr ""
+
+#: admin.php:954
+msgid "Select the display size from which the mobile mode will be activated in the options block in the product card."
+msgstr ""
+
+#: admin.php:961
+msgid "This text is displayed in product categories only. Localization in the product card will depend on your theme and WooCommerce."
+msgstr ""
+
+#: admin.php:968
+msgid "Select options (button)"
+msgstr ""
+
+#: admin.php:969 quasar-variable-attributes-main.php:353
+#: quasar-variable-attributes-main.php:354
+msgid "Select options"
+msgstr ""
+
+#: admin.php:972 admin.php:973 quasar-variable-attributes-main.php:359
+#: quasar-variable-attributes-main.php:360
+msgid "This option is not available"
+msgstr ""
+
+#: admin.php:976 admin.php:977 quasar-variable-attributes-main.php:362
+#: quasar-variable-attributes-main.php:363
+msgid "Choose an option"
+msgstr ""
+
+#: admin.php:980 admin.php:981 quasar-variable-attributes-main.php:356
+#: quasar-variable-attributes-main.php:357
+msgid "Select a value in each option"
+msgstr ""
+
+#: admin.php:990
+msgid "Import/export"
+msgstr ""
+
+#: admin.php:990
+msgid " (you can import settings and design sections)"
+msgstr ""
+
+#: admin.php:998
+msgid "Select text to export"
+msgstr ""
+
+#: admin.php:1001
+msgid "Export form"
+msgstr ""
+
+#: admin.php:1002
+msgid "Export text"
+msgstr ""
+
+#: admin.php:1007
+msgid "Import form"
+msgstr ""
+
+#: admin.php:1008
+msgid "Incorrect text of export!"
+msgstr ""
+
+#: admin.php:1009
+msgid "Import text"
+msgstr ""
+
+#: admin.php:1011
+msgid "Apply import"
+msgstr ""
+
+#: admin.php:1012 admin.php:1024
+msgid "Error while saving"
+msgstr ""
+
+#: admin.php:1013 admin.php:1025
+msgid "Saved"
+msgstr ""
+
+#: admin.php:1015
+msgid "If you don't copy all the text when importing or exporting, this can lead to errors in the plugin! To import the current version of the settings, restart the page."
+msgstr ""
+
+#: admin.php:1021
+msgid "Save settings"
+msgstr ""
+
+#: admin.php:1039
+msgid "Search"
+msgstr ""
+
+#: admin.php:1040
+msgid "Attribute added"
+msgstr ""
+
+#: admin.php:1041
+msgid "Already added"
+msgstr ""
+
+#: admin.php:1042
+msgid "Tooltip"
+msgstr ""
+
+#: admin.php:1043
+msgid "Attribute style"
+msgstr ""
+
+#: admin.php:1044
+msgid "Checkbox"
+msgstr ""
+
+#: admin.php:1045
+msgid "Checkbox img"
+msgstr ""
+
+#: admin.php:1046
+msgid "Checkbox сolor"
+msgstr ""
+
+#: admin.php:1047
+msgid "Dropdown"
+msgstr ""
+
+#: admin.php:1048
+msgid "Checkbox text/HTML"
+msgstr ""
+
+#: admin.php:1050
+msgid "Text color"
+msgstr ""
+
+#: admin.php:1052
+msgid "Active background color"
+msgstr ""
+
+#: admin.php:1053
+msgid "Active text color"
+msgstr ""
+
+#: admin.php:1058
+msgid "Active border color"
+msgstr ""
+
+#: admin.php:1059
+msgid "Size"
+msgstr ""
+
+#: admin.php:1060
+msgid "Your HTML"
+msgstr ""
+
+#: admin.php:1063
+msgid "Disable design"
+msgstr ""
+
+#: admin.php:1064
+msgid "Width"
+msgstr ""
+
+#: admin.php:1065
+msgid "Height"
+msgstr ""
+
+#: admin.php:1066
+msgid "Design for category page"
+msgstr ""
+
+#: admin.php:1067
+msgid "[img-attr] - this short code indicates that the image will be taken from the product settings tab \"Image for variations\"."
+msgstr ""
+
+#: admin.php:1068
+msgid "If you want to use one image for all products, remove the shortcode and paste the link to the image."
+msgstr ""
+
+#: admin.php:1069
+msgid "Сopy"
+msgstr ""
+
+#: admin.php:1070
+msgid "Paste"
+msgstr ""
+
+#: admin.php:1071
+msgid "Copy attribute styles"
+msgstr ""
+
+#: admin.php:1074
+msgid "If you want to use the design from your theme for the Add to Cart button, disable the button design from the plugin."
+msgstr ""
+
+#: admin.php:1075
+msgid "If you want to use the design from your theme for the quantity field, disable the design for that field in the plugin."
+msgstr ""
+
+#: admin.php:1076
+msgid "If you want to use a design from your theme for the product price, disable design for the price in the plugin."
+msgstr ""
+
+#: admin.php:1078
+msgid "Enable the output of a block for choosing variations in product categories."
+msgstr ""
+
+#: admin.php:1079
+msgid "Note. When this setting is activated, the styles for the Add to cart button will be loaded from the plugin."
+msgstr ""
+
+#: admin.php:1080
+msgid "If you want to avoid this, you can disable the styles from plugin for the Add to cart button in the design section."
+msgstr ""
+
+#: admin.php:1081
+msgid "help-1en.jpg"
+msgstr ""
+
+#: admin.php:1084
+msgid "If you disable the display of the quantity field, then when buying a product from the category page, 1 unit of the product will be added to the basket."
+msgstr ""
+
+#: admin.php:1085
+msgid "help-design-3-en.jpg"
+msgstr ""
+
+#: admin.php:1087
+msgid "If this option is enabled, then when you select a variation in a category, the product image will change to the image of this variation. If no image is specified in the variation, nothing will happen."
+msgstr ""
+
+#: admin.php:1088
+msgid "help-design-en.jpg"
+msgstr ""
+
+#: admin.php:1089
+msgid "help-design-2-en.jpg"
+msgstr ""
+
+#: admin.php:1091
+msgid "The screenshot shows the sections from which you can import / export settings."
+msgstr ""
+
+#: admin.php:1092
+msgid "help-import.jpg"
+msgstr ""
+
+#: admin.php:1095
+msgid "Go to edit the product you need and open the tab shown in the screenshot."
+msgstr ""
+
+#: admin.php:1096
+msgid "help-attr-en.jpg"
+msgstr ""
+
+#: admin.php:1099
+msgid "You can combine shortcodes and static images for your attributes."
+msgstr ""
+
+#: admin.php:1100
+msgid "help-attr-2en.jpg"
+msgstr ""
+
+#: admin.php:1102
+msgid "Related products is a block of products that you can see in the product card under the main product. In most topics are selected automatically."
+msgstr ""
+
+#: admin.php:1103
+msgid "Upsells are products that you have set in the \"Linked Products\" section in product settings."
+msgstr ""
+
+#: admin.php:1104
+msgid "If the updated variables in your theme are not displaying correctly, try other priority values. The priority affects where the block with variables will be displayed. This is different for different themes."
+msgstr ""
+
+#: admin.php:1105
+msgid "If this option is enabled after clicking the add to cart button in the product category, the user will be redirected to the cart page. Note. Some themes may ignore this option."
+msgstr ""
+
+#: quasar-variable-attributes-main.php:24
+msgid "Setting"
+msgstr ""
+
+#: quasar-variable-attributes-main.php:25
+msgid "Support"
+msgstr ""
+
+#: quasar-variable-attributes-main.php:147
+msgid "Select Color"
+msgstr ""
+
+#: quasar-variable-attributes-main.php:148
+msgid "Clear"
+msgstr ""
+
+#: quasar-variable-attributes-main.php:165
+msgid "Image for variations"
+msgstr ""
+
+#: quasar-variable-attributes-main.php:186
+msgid "IMG attr"
+msgstr ""
+
+#: quasar-variable-attributes-main.php:217
+msgid "This attribute is not global. You can only assign images to global attributes."
+msgstr ""
+
+#: quasar-variable-attributes-main.php:254
+msgid "The attribute list for variables is currently empty. If you have already added attributes for variables, refresh the page."
+msgstr ""
+
+#: quasar-variable-attributes-main.php:263
+msgid "In this section you assign images to your attributes."
+msgstr ""
+
+#: quasar-variable-attributes-main.php:264
+msgid "Note."
+msgstr ""
+
+#: quasar-variable-attributes-main.php:264
+msgid "In the plugin settings you need to add this attribute and set the display type to \"Checkbox img\""
+msgstr ""
+
+#: quasar-variable-attributes-main.php:264
+msgid "/help-product.jpg"
+msgstr ""
+
+#: quasar-variable-attributes-main.php:274
+msgid "You can only assign images to attributes in variable products."
+msgstr ""
+
+#: quasar-variable-attributes-main.php:278
+msgid "If you have already set the product type - \"variable\" refresh the page."
+msgstr ""

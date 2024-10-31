@@ -1,0 +1,165 @@
+.wrap-section-attr-q {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    border-bottom: 1px solid #c8c7c7;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.block-select-q {
+    display: flex;
+    flex-wrap: wrap; 
+}
+
+.add-img-quasar-attr {
+    padding: 10px;
+    margin-right: 5px;
+    text-align: center;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.img-attr-val-q {
+    background-color: #ededed;
+    display: flex;
+    min-width: 50px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #959595;
+    font-size: 20px;
+    cursor: pointer;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.img-attr-val-q span {
+    font-size:20px;
+}
+
+.name-attr-q {
+    margin-left: 20px;
+    font-weight: 500;
+    color: #000;
+}
+
+.name-attr-val-q {
+    text-align:left;
+}
+
+.remove-img-attr-q {
+    position:absolute;
+    font-size:15px;
+    bottom: -10px;
+    left: 0px;
+    right: 0px;
+    display: none;
+    justify-content: center;
+    color: #c81010;
+    cursor: pointer;
+}
+
+.quasar_attr_img_q_field {display:none;}
+
+.quasar-attr-tab.active a {
+    background-color: #ac8fd9!important;  
+    color: #fff!important;  ;
+}
+
+.quasar-attr-tab a {
+    color: #5129a8;
+}
+
+.help-block-in-tab {
+    margin:10px;
+    font-size:15px;
+    color:#000;
+}
+
+.read-warning-q {
+    color:#dd5151;
+    font-weight:600;
+}
+
+.help-q {
+    display: inline-flex;
+    border-radius: 50px;
+    width: 18px;
+    height: 18px;
+    background-color: #26bcee;
+    color: #fff;
+    text-align: center;
+    font-weight: 600;
+    position: relative;
+    margin-left: 5px;
+    line-height: 1.4em!important;
+    cursor: pointer;
+    transition: 0.3s;
+    justify-content: center;
+    align-items: center;
+}
+
+.help-q:hover{
+     background-color: #196ff1;
+}
+
+#quasar_attr_tab .swap-modal-help-q {
+    position: absolute;
+    background-color: #2f2f2fe0;
+    z-index: 2;
+    font-weight: 400;
+    padding: 20px 25px;
+    width: auto;
+    left: -400px;
+    text-align: left;
+    top: -30px;
+    color: #fff;
+    white-space: normal;
+}
+
+#quasar_attr_tab .close-help-q {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    color: #fff;
+}
+
+#quasar_attr_tab .modal-help-q {
+    overflow-y: scroll;
+    max-height: 430px;
+}
+
+.error-no-global-attr-q {
+    padding: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.wrap-error-img-tab-q {
+    margin: 20px;
+    font-size: 14px;
+    color: #555;
+}
+
+.two-col-help-message-no-variable-q {
+    display:flex;
+    align-items:center;
+    margin-top: 10px;
+}
+
+.two-col-help-message-no-variable-q img {
+    max-width: 50px;
+    margin-right: 10px;
+}
+
+.variable-attr-block-q .two-col-help-message-no-variable-q{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+ 

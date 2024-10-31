@@ -1,0 +1,1064 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quasar Form Woocommerce add-on\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: nucleusgenius\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: admin.php:12
+msgid "Version"
+msgstr "Версия"
+
+#: admin.php:19
+msgid "Attributes"
+msgstr "Атрибуты"
+
+#: admin.php:20
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin.php:21
+msgid "Design"
+msgstr "Дизайн"
+
+#: admin.php:22 admin.php:960
+msgid "Localization"
+msgstr "Локализация"
+
+#: admin.php:23
+msgid "Import/export settings"
+msgstr "Импорт/экспорт настроек"
+
+#: admin.php:29 admin.php:452 admin.php:453 admin.php:508 admin.php:509
+#: admin.php:595 admin.php:596 admin.php:659 admin.php:660 admin.php:760
+#: admin.php:761 admin.php:795 admin.php:796 admin.php:809 admin.php:810
+#: admin.php:823 admin.php:824 admin.php:847 admin.php:848 admin.php:861
+#: admin.php:862 admin.php:1061
+msgid "Yes"
+msgstr "Да"
+
+#: admin.php:30 admin.php:454 admin.php:455 admin.php:510 admin.php:511
+#: admin.php:597 admin.php:598 admin.php:661 admin.php:662 admin.php:763
+#: admin.php:764 admin.php:797 admin.php:798 admin.php:811 admin.php:812
+#: admin.php:825 admin.php:826 admin.php:849 admin.php:850 admin.php:863
+#: admin.php:864 admin.php:1062
+msgid "No"
+msgstr "Нет"
+
+#: admin.php:36
+msgid "Add attributes and style them to fit your needs."
+msgstr "Добавляйте атрибуты и стилизуйте их в соответствии с вашими задачами."
+
+#: admin.php:45
+msgid "Add attributes"
+msgstr "Добавить атрибуты"
+
+#: admin.php:50
+msgid "Сlick on an attribute to style it"
+msgstr "Нажмите на атрибут, чтобы стилизовать его"
+
+#: admin.php:138
+msgid "Attribute design:"
+msgstr "Дизайн атрибутов:"
+
+#: admin.php:146
+msgid "Additional customization:"
+msgstr "Дополнительная настройка:"
+
+#: admin.php:154
+msgid "Attribute tooltip:"
+msgstr "Всплывающая подсказка атрибута:"
+
+#: admin.php:158
+msgid ""
+"Note. If an attribute or attribute value is not in the product published on "
+"the site, then this attribute or value may not be in the plugin."
+msgstr ""
+"Важно. Если атрибута или значения атрибута нет в продукте, опубликованном на "
+"сайте, то этого атрибута или значения может не быть в плагине."
+
+#: admin.php:159
+msgid ""
+"If you have changed the attribute name, then in order for its name to change "
+"on the site, you need to click the \"save\" button in the plugin."
+msgstr ""
+"Если вы изменили название атрибута, то чтобы название изменилось на сайте, "
+"вам нужно нажать кнопку «сохранить» в плагине."
+
+#: admin.php:160
+msgid ""
+"If you have changed the attribute slug, then this attribute must be removed "
+"from the plugin and re-added."
+msgstr ""
+"Если вы изменили слаг атрибута, то этот атрибут необходимо удалить из "
+"плагина и добавить заново."
+
+#: admin.php:175
+msgid "Block design with variations in the product card:"
+msgstr "Дизайн блока с вариациями в карточке продукта:"
+
+#: admin.php:176
+msgid ""
+"Attribute design is set in the \"Attributes\" section, in this section you "
+"configure the design of the block in which the attributes will be displayed."
+msgstr ""
+"Оформление атрибутов задается в разделе «Атрибуты», в этом разделе вы "
+"настраиваете дизайн блока, в котором будут отображаться атрибуты."
+
+#: admin.php:182 admin.php:191 admin.php:200 admin.php:259 admin.php:315
+#: admin.php:324 admin.php:333 admin.php:403
+msgid "Attribute name"
+msgstr "Имя атрибута"
+
+#: admin.php:184 admin.php:193 admin.php:205 admin.php:317 admin.php:326
+#: admin.php:338
+msgid "Value 1"
+msgstr "Значение 1"
+
+#: admin.php:185 admin.php:194 admin.php:206 admin.php:318 admin.php:327
+#: admin.php:339
+msgid "Value 2"
+msgstr "Значение 2"
+
+#: admin.php:186 admin.php:195 admin.php:207 admin.php:319 admin.php:328
+#: admin.php:340
+msgid "Value 3"
+msgstr "Значение 3"
+
+#: admin.php:226 admin.php:373
+msgid "Style"
+msgstr "Стиль"
+
+#: admin.php:229 admin.php:230 admin.php:376 admin.php:377
+msgid "style-1"
+msgstr "стиль 1"
+
+#: admin.php:231 admin.php:232 admin.php:378 admin.php:379
+msgid "style-2"
+msgstr "стиль 2"
+
+#: admin.php:238 admin.php:386
+msgid "Spacing between attributes"
+msgstr "Интервал между атрибутами"
+
+#: admin.php:244 admin.php:392 admin.php:1057
+msgid "Padding: left, right, top, bottom"
+msgstr "Отступ: слева справа вверху внизу"
+
+#: admin.php:254
+msgid "Maximum width"
+msgstr "Максимальная ширина"
+
+#: admin.php:263 admin.php:407
+msgid "Spacing between name and value"
+msgstr "Интервал между именем и значением"
+
+#: admin.php:268 admin.php:412
+msgid "Spacing between values"
+msgstr "Интервал между значениями"
+
+#: admin.php:273 admin.php:418 admin.php:461
+msgid "Color"
+msgstr "Цвет"
+
+#: admin.php:278 admin.php:423 admin.php:466 admin.php:527 admin.php:1049
+msgid "Font size"
+msgstr "Размер шрифта"
+
+#: admin.php:283
+msgid "font weight"
+msgstr "толщина шрифта"
+
+#: admin.php:303
+msgid "Output in categories is disabled in the settings"
+msgstr "Вывод в категории отключен в настройках"
+
+#: admin.php:304
+msgid "Block design with variations in categories:"
+msgstr "Дизайн блока с вариациями в категориях:"
+
+#: admin.php:353 admin.php:964 admin.php:965
+#: quasar-variable-attributes-main.php:350
+#: quasar-variable-attributes-main.php:351
+msgid "Add to cart"
+msgstr "Добавить в корзину"
+
+#: admin.php:428 admin.php:471 admin.php:532
+msgid "Font weight"
+msgstr "Толщина шрифта"
+
+#: admin.php:445
+msgid "Price"
+msgstr "Цена"
+
+#: admin.php:449 admin.php:505 admin.php:592
+msgid "Enable design from plugin"
+msgstr "Включить дизайн из плагина"
+
+#: admin.php:487
+msgid "Price indent"
+msgstr "Отступ от цены"
+
+#: admin.php:492
+msgid "Price align"
+msgstr "Выровнять цену"
+
+#: admin.php:501
+msgid "Button add to cart"
+msgstr "Кнопка добавить в корзину"
+
+#: admin.php:517
+msgid "Font color"
+msgstr "Цвет текста"
+
+#: admin.php:522 admin.php:614 admin.php:1051
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: admin.php:548
+msgid "Button indent"
+msgstr "Отступ кнопки"
+
+#: admin.php:553
+msgid "Button align"
+msgstr "Выравнивание кнопки"
+
+#: admin.php:563
+msgid "Button padding: left, right, top, bottom"
+msgstr "Отступ: слева, справа, вверху, внизу"
+
+#: admin.php:573 admin.php:1055
+msgid "Border width"
+msgstr "Ширина границы"
+
+#: admin.php:578 admin.php:619 admin.php:1054
+msgid "Border color"
+msgstr "Цвет границы"
+
+#: admin.php:583 admin.php:629 admin.php:1056
+msgid "Border radius"
+msgstr "Округление границы"
+
+#: admin.php:588
+msgid "Field quantity"
+msgstr "Поле количество"
+
+#: admin.php:588
+msgid "Field disabled in settings"
+msgstr "Поле отключено в настройках"
+
+#: admin.php:604
+msgid "Number color"
+msgstr "Цвет цифр"
+
+#: admin.php:609
+msgid "Number size"
+msgstr "Размер цифр"
+
+#: admin.php:624
+msgid "Border widh"
+msgstr "Ширина границы"
+
+#: admin.php:635
+msgid "Quantity padding: left, right, top, bottom"
+msgstr "Количество отступ: слева, справа, вверху, внизу"
+
+#: admin.php:653
+msgid "Main settings"
+msgstr "Основные настройки"
+
+#: admin.php:666
+msgid "Show block of variations in categories."
+msgstr "Показать блок выбора вариаций в категориях."
+
+#: admin.php:669
+msgid "Block location with variations"
+msgstr "Расположение блока с вариациями"
+
+#: admin.php:673
+msgid "Product Card"
+msgstr "Карточка продукта"
+
+#: admin.php:676
+msgid ""
+"After a short description (this option will function with a product without "
+"price)"
+msgstr "После краткого описания (эта опция будет работать с товаром без цены)"
+
+#: admin.php:677
+msgid "Above the short description"
+msgstr "Над кратким описанием"
+
+#: admin.php:679 admin.php:680 admin.php:722
+msgid "After add to cart button"
+msgstr "После кнопки добавить в корзину"
+
+#: admin.php:682 admin.php:683
+msgid "Before quantity input field"
+msgstr "Перед полем ввода количества"
+
+#: admin.php:686 admin.php:687
+msgid "Product meta end"
+msgstr "В конце мета данных"
+
+#: admin.php:692 admin.php:731
+msgid "Priority"
+msgstr "Приоритет"
+
+#: admin.php:714
+msgid "Select the position of the variable in the product card."
+msgstr "Выберите позицию вариаций в карточке товара."
+
+#: admin.php:719
+msgid "Category"
+msgstr "Категория"
+
+#: admin.php:723
+msgid "Before add to cart button"
+msgstr "Перед кнопкой добавить в корзину"
+
+#: admin.php:725 admin.php:726
+msgid "Before shop loop item"
+msgstr "Перед циклом вывода информации о товаре"
+
+#: admin.php:753
+msgid "Select the position of the variable in the archive and category pages."
+msgstr "Выберите положение вариаций на страницах архива и категорий."
+
+#: admin.php:768
+msgid "Show a block of variations in products with zero stock."
+msgstr "Показывать вариации в товарах с нулевым запасом."
+
+#: admin.php:772
+msgid "Display settings in categories"
+msgstr "Настройки отображения в категориях"
+
+#: admin.php:778 admin.php:779
+msgid "To the left of the price"
+msgstr "Слева от цены"
+
+#: admin.php:780 admin.php:781
+msgid "To the right of the price"
+msgstr "Справа от цены"
+
+#: admin.php:785
+msgid "Сurrency icon position."
+msgstr "Позиция значка валюты."
+
+#: admin.php:802
+msgid "Redirect to the shopping cart page after purchasing the product."
+msgstr "Перенаправление на страницу корзины после покупки товара."
+
+#: admin.php:816
+msgid "Show quantity field in categories."
+msgstr "Показывать поле количество в категориях."
+
+#: admin.php:830
+msgid ""
+"Сhange the product image to the image of the selected variation. This option "
+"will not work in all themes."
+msgstr ""
+"Изменять изображение товара на изображение выбранной вариации. Эта опция "
+"будет работать не во всех темах."
+
+#: admin.php:840
+msgid "Product image class in product category."
+msgstr "Класс изображения продукта в категории товаров."
+
+#: admin.php:854
+msgid "Show variations in related products."
+msgstr ""
+"Показать блок выбора вариаций в сопутствующих товарах (related products)."
+
+#: admin.php:868
+msgid "Show variations in upsell."
+msgstr "Показать блок выбора вариаций в апсейлах (upsell)."
+
+#: admin.php:871
+msgid "Responsiveness settings"
+msgstr "Настройки адаптивности"
+
+#: admin.php:897
+msgid ""
+"Select the display size from which the mobile mode will be activated in the "
+"options block in the product category."
+msgstr ""
+"Выберите размер дисплея, с которого будет активирован мобильный режим, в "
+"блоке опций в категории товара."
+
+#: admin.php:904 admin.php:905
+msgid "Do not hide variable"
+msgstr "Не скрывать вариации"
+
+#: admin.php:927
+msgid "Hide block with variables in categories at display size."
+msgstr "Скрыть блок с вариациями в категориях при размере экрана."
+
+#: admin.php:954
+msgid ""
+"Select the display size from which the mobile mode will be activated in the "
+"options block in the product card."
+msgstr ""
+"Выберите размер дисплея, с которого будет активирован мобильный режим, в "
+"блоке опций в карточке товара."
+
+#: admin.php:961
+msgid ""
+"This text is displayed in product categories only. Localization in the "
+"product card will depend on your theme and WooCommerce."
+msgstr ""
+"Этот текст отображается только в категориях товаров. Локализация в карточке "
+"продукта будет зависеть от вашей темы и WooCommerce."
+
+#: admin.php:968
+msgid "Select options (button)"
+msgstr "Выберите опцию (кнопка)"
+
+#: admin.php:969 quasar-variable-attributes-main.php:353
+#: quasar-variable-attributes-main.php:354
+msgid "Select options"
+msgstr "Выберите опцию"
+
+#: admin.php:972 admin.php:973 quasar-variable-attributes-main.php:359
+#: quasar-variable-attributes-main.php:360
+msgid "This option is not available"
+msgstr "Эта опция недоступна"
+
+#: admin.php:976 admin.php:977 quasar-variable-attributes-main.php:362
+#: quasar-variable-attributes-main.php:363
+msgid "Choose an option"
+msgstr "Выберите опцию"
+
+#: admin.php:980 admin.php:981 quasar-variable-attributes-main.php:356
+#: quasar-variable-attributes-main.php:357
+msgid "Select a value in each option"
+msgstr "Выберите значение в каждой вариации"
+
+#: admin.php:990
+msgid "Import/export"
+msgstr "Импорт/экспорт"
+
+#: admin.php:990
+msgid " (you can import settings and design sections)"
+msgstr " (вы можете импортировать разделы: настройки и дизайн)"
+
+#: admin.php:998
+msgid "Select text to export"
+msgstr "Выделить текст экспорта"
+
+#: admin.php:1001
+msgid "Export form"
+msgstr "Форма экспорта"
+
+#: admin.php:1002
+msgid "Export text"
+msgstr "Текст экспорта"
+
+#: admin.php:1007
+msgid "Import form"
+msgstr "Форма импорта"
+
+#: admin.php:1008
+msgid "Incorrect text of export!"
+msgstr "Неверный текст экспорта!"
+
+#: admin.php:1009
+msgid "Import text"
+msgstr "Текст импорта"
+
+#: admin.php:1011
+msgid "Apply import"
+msgstr "Применить импорт"
+
+#: admin.php:1012 admin.php:1024
+msgid "Error while saving"
+msgstr "Ошибка при сохранении"
+
+#: admin.php:1013 admin.php:1025
+msgid "Saved"
+msgstr "Сохранено"
+
+#: admin.php:1015
+msgid ""
+"If you don't copy all the text when importing or exporting, this can lead to "
+"errors in the plugin! To import the current version of the settings, restart "
+"the page."
+msgstr ""
+"Если вы не скопируете весь текст при импорте или экспорте, это может "
+"привести к ошибкам в плагине! Чтобы импортировать текущую версию настроек, "
+"обновите страницу."
+
+#: admin.php:1021
+msgid "Save settings"
+msgstr "Сохранить настройки"
+
+#: admin.php:1039
+msgid "Search"
+msgstr "Поиск"
+
+#: admin.php:1040
+msgid "Attribute added"
+msgstr "Атрибут добавлен"
+
+#: admin.php:1041
+msgid "Already added"
+msgstr "Уже добавлено"
+
+#: admin.php:1042
+msgid "Tooltip"
+msgstr "Подсказка"
+
+#: admin.php:1043
+msgid "Attribute style"
+msgstr "Стиль атрибута"
+
+#: admin.php:1044
+msgid "Checkbox"
+msgstr "Переключатель"
+
+#: admin.php:1045
+msgid "Checkbox img"
+msgstr "Переключатель c изображениями"
+
+#: admin.php:1046
+msgid "Checkbox сolor"
+msgstr "Переключатель с цветами"
+
+#: admin.php:1047
+msgid "Dropdown"
+msgstr "Выпадающий список"
+
+#: admin.php:1048
+msgid "Checkbox text/HTML"
+msgstr "Переключатель с текстом/HTML"
+
+#: admin.php:1050
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: admin.php:1052
+msgid "Active background color"
+msgstr "Цвет фона при выборе"
+
+#: admin.php:1053
+msgid "Active text color"
+msgstr "Цвет текста при выборе"
+
+#: admin.php:1058
+msgid "Active border color"
+msgstr "Цвет границы при выборе"
+
+#: admin.php:1059
+msgid "Size"
+msgstr "Размер"
+
+#: admin.php:1060
+msgid "Your HTML"
+msgstr "Ваш HTML"
+
+#: admin.php:1063
+msgid "Disable design"
+msgstr "Отключить дизайн"
+
+#: admin.php:1064
+msgid "Width"
+msgstr "Ширина"
+
+#: admin.php:1065
+msgid "Height"
+msgstr "Высота"
+
+#: admin.php:1066
+msgid "Design for category page"
+msgstr "Дизайн для страницы категории"
+
+#: admin.php:1067
+msgid ""
+"[img-attr] - this short code indicates that the image will be taken from the "
+"product settings tab \"Image for variations\"."
+msgstr ""
+"[img-attr] - этот короткий код означает, что изображение будет взято из "
+"вкладки настроек в товаре «Изображение для вариаций»."
+
+#: admin.php:1068
+msgid ""
+"If you want to use one image for all products, remove the shortcode and "
+"paste the link to the image."
+msgstr ""
+"Если вы хотите использовать одно изображение для всех товаров, удалите "
+"шорткод и вставьте ссылку на изображение."
+
+#: admin.php:1069
+msgid "Сopy"
+msgstr "Копировать"
+
+#: admin.php:1070
+msgid "Paste"
+msgstr "Вставить"
+
+#: admin.php:1071
+msgid "Copy attribute styles"
+msgstr "Копировать стиль атрибута"
+
+#: admin.php:1074
+msgid ""
+"If you want to use the design from your theme for the Add to Cart button, "
+"disable the button design from the plugin."
+msgstr ""
+"Если вы хотите использовать дизайн из своей темы для кнопки «Добавить в "
+"корзину», отключите дизайн кнопки в плагине."
+
+#: admin.php:1075
+msgid ""
+"If you want to use the design from your theme for the quantity field, "
+"disable the design for that field in the plugin."
+msgstr ""
+"Если вы хотите использовать дизайн из своей темы для поля количества, "
+"отключите дизайн для этого поля в плагине."
+
+#: admin.php:1076
+msgid ""
+"If you want to use a design from your theme for the product price, disable "
+"design for the price in the plugin."
+msgstr ""
+"Если вы хотите использовать дизайн из вашей темы для цены продукта, "
+"отключите дизайн для цены из плагине."
+
+#: admin.php:1078
+msgid ""
+"Enable the output of a block for choosing variations in product categories."
+msgstr "Включить вывод блока с выбором вариаций в категориях товаров."
+
+#: admin.php:1079
+msgid ""
+"Note. When this setting is activated, the styles for the Add to cart button "
+"will be loaded from the plugin."
+msgstr ""
+"Примечание. Когда этот параметр активирован, стили для кнопки «Добавить в "
+"корзину» будут загружаться из плагина."
+
+#: admin.php:1080
+msgid ""
+"If you want to avoid this, you can disable the styles from plugin for the "
+"Add to cart button in the design section."
+msgstr ""
+"Если вы хотите избежать этого, вы можете отключить стили из плагина для "
+"кнопки «Добавить в корзину» в разделе дизайн."
+
+#: admin.php:1081
+msgid "help-1en.jpg"
+msgstr "help-1en.jpg"
+
+#: admin.php:1084
+msgid ""
+"If you disable the display of the quantity field, then when buying a product "
+"from the category page, 1 unit of the product will be added to the basket."
+msgstr ""
+"Если отключить отображение поля количества, то при покупке товара со "
+"страницы категории в корзину будет добавлена 1 единица товара."
+
+#: admin.php:1085
+msgid "help-design-3-en.jpg"
+msgstr "help-design-3-en.jpg"
+
+#: admin.php:1087
+msgid ""
+"If this option is enabled, then when you select a variation in a category, "
+"the product image will change to the image of this variation. If no image is "
+"specified in the variation, nothing will happen."
+msgstr ""
+"Если эта опция включена, то при выборе вариации в категории, изображение "
+"товара будет меняться на изображение этой вариации. Если в вариации не "
+"указано изображение, ничего не произойдет."
+
+#: admin.php:1088
+msgid "help-design-en.jpg"
+msgstr "help-design-en.jpg"
+
+#: admin.php:1089
+msgid "help-design-2-en.jpg"
+msgstr "help-design-2-en.jpg"
+
+#: admin.php:1091
+msgid ""
+"The screenshot shows the sections from which you can import / export "
+"settings."
+msgstr ""
+"На скриншоте показаны разделы, из которых можно импортировать/экспортировать "
+"настройки."
+
+#: admin.php:1092
+msgid "help-import.jpg"
+msgstr "help-import.jpg"
+
+#: admin.php:1095
+msgid ""
+"Go to edit the product you need and open the tab shown in the screenshot."
+msgstr ""
+"Перейдите к редактированию нужного вам товара и откройте вкладку, показанную "
+"на скриншоте."
+
+#: admin.php:1096
+msgid "help-attr-en.jpg"
+msgstr "help-attr-en.jpg"
+
+#: admin.php:1099
+msgid "You can combine shortcodes and static images for your attributes."
+msgstr ""
+"Вы можете комбинировать шорткоды и статические изображения для своих "
+"атрибутов."
+
+#: admin.php:1100
+msgid "help-attr-2en.jpg"
+msgstr "help-attr-2en.jpg"
+
+#: admin.php:1102
+msgid ""
+"Related products is a block of products that you can see in the product card "
+"under the main product. In most topics are selected automatically."
+msgstr ""
+"Сопутствующие товары — это блок товаров, который вы можете увидеть в "
+"карточке товара под основным товаром. В большинстве тем выбираются "
+"автоматически."
+
+#: admin.php:1103
+msgid ""
+"Upsells are products that you have set in the \"Linked Products\" section in "
+"product settings."
+msgstr ""
+"Апсейл — это товары, которые вы установили в разделе «Сопутствующие» в "
+"настройках товара."
+
+#: admin.php:1104
+msgid ""
+"If the updated variables in your theme are not displaying correctly, try "
+"other priority values. The priority affects where the block with variables "
+"will be displayed. This is different for different themes."
+msgstr ""
+"Если обновленные вариации в вашей теме отображаются не корректно, попробуйте "
+"другие значения приоритета. Приоритет влияет на то, где будет отображаться "
+"блок с переменными. Это отличается для разных тем."
+
+#: admin.php:1105
+msgid ""
+"If this option is enabled after clicking the add to cart button in the "
+"product category, the user will be redirected to the cart page. Note. Some "
+"themes may ignore this option."
+msgstr ""
+"Если эта опция включена, после нажатия кнопки «Добавить в корзину» в "
+"категории товара, пользователь будет перенаправлен на страницу корзины. "
+"Обратите внимание, некоторые темы могут игнорировать эту опцию и в любом "
+"случае перенаправлять на страницу корзины."
+
+#: quasar-variable-attributes-main.php:24
+msgid "Setting"
+msgstr "Настройки"
+
+#: quasar-variable-attributes-main.php:25
+msgid "Support"
+msgstr "Поддержка"
+
+#: quasar-variable-attributes-main.php:147
+msgid "Select Color"
+msgstr "Выберите цвет"
+
+#: quasar-variable-attributes-main.php:148
+msgid "Clear"
+msgstr "Очистить"
+
+#: quasar-variable-attributes-main.php:165
+msgid "Image for variations"
+msgstr "Изображение для вариаций"
+
+#: quasar-variable-attributes-main.php:186
+msgid "IMG attr"
+msgstr "IMG attr"
+
+#: quasar-variable-attributes-main.php:217
+msgid ""
+"This attribute is not global. You can only assign images to global "
+"attributes."
+msgstr "Скрыть блок с переменными в категориях при размере дисплея."
+
+#: quasar-variable-attributes-main.php:254
+msgid ""
+"The attribute list for variables is currently empty. If you have already "
+"added attributes for variables, refresh the page."
+msgstr ""
+"Список атрибутов для вариаций в настоящее время пуст. Если вы уже добавили "
+"атрибуты для вариаций, обновите страницу."
+
+#: quasar-variable-attributes-main.php:263
+msgid "In this section you assign images to your attributes."
+msgstr "В этом разделе вы назначаете изображения своим атрибутам."
+
+#: quasar-variable-attributes-main.php:264
+msgid "Note."
+msgstr "Обратите внимание."
+
+#: quasar-variable-attributes-main.php:264
+msgid ""
+"In the plugin settings you need to add this attribute and set the display "
+"type to \"Checkbox img\""
+msgstr ""
+"В настройках плагина вам нужно добавить этот атрибут и установить тип "
+"отображения \"Переключатель c изображениями\""
+
+#: quasar-variable-attributes-main.php:264
+msgid "/help-product.jpg"
+msgstr "/help-product.jpg"
+
+#: quasar-variable-attributes-main.php:274
+msgid "You can only assign images to attributes in variable products."
+msgstr ""
+"Вы можете назначать изображения атрибутам только в вариативных товарах."
+
+#: quasar-variable-attributes-main.php:278
+msgid ""
+"If you have already set the product type - \"variable\" refresh the page."
+msgstr "Если вы уже установили тип товара - \"вариативный\" обновите страницу."
+
+#~ msgid "no options"
+#~ msgstr "не выбрано опций"
+
+#~ msgid "select a value in each option"
+#~ msgstr "выберите значение в каждой вариации"
+
+#~ msgid "Bborder color"
+#~ msgstr "Цвет границы"
+
+#~ msgid "Your message has been sent"
+#~ msgstr "Ваше сообщение отправлено"
+
+#~ msgid ""
+#~ "This addon works according to the following algorithm. In the main "
+#~ "settings. You select the form created in the Quasar Form plugin. Then you "
+#~ "connect the fields of this form with the woccomerce order fields so that "
+#~ "the form data appears in the order."
+#~ msgstr ""
+#~ "Этот аддон работает по следующему алгоритму. В основных настройках вы "
+#~ "выбираете форму, созданную в плагине Quasar Form. Затем вы соединяете "
+#~ "поля этой формы с полями заказа woccomerce, чтобы данные из полей формы "
+#~ "отображались в заказе."
+
+#~ msgid "Error: Quasar Form plugin not installed"
+#~ msgstr "Ошибка: Плагин формы квазара не установлен"
+
+#~ msgid "Select form"
+#~ msgstr "Выберите форму"
+
+#~ msgid ""
+#~ "Select the form that will be displayed in the product and used for quick "
+#~ "ordering."
+#~ msgstr ""
+#~ "Выберите форму, которая будет отображаться в товаре и использоваться для "
+#~ "быстрого заказа."
+
+#~ msgid ""
+#~ "Сreate a new order in woocommerce when submitting a quick order form."
+#~ msgstr ""
+#~ "Создавать новый заказ в woocommerce при отправке формы быстрого заказа."
+
+#~ msgid "None"
+#~ msgstr "Отсуствует"
+
+#~ msgid "Disable"
+#~ msgstr "Отключить"
+
+#~ msgid "Enable"
+#~ msgstr "Включить"
+
+#~ msgid "Creating orders:"
+#~ msgstr "Создание заказов:"
+
+#~ msgid ""
+#~ "You can connect the form fields from Quasar Form with the Woocommerce "
+#~ "order fields. This way, the data from your form fields will be "
+#~ "transferred to the created woocommerce order."
+#~ msgstr ""
+#~ "Вы можете связать поля из формы Quasar Form с полями заказов Woocommerce. "
+#~ "Таким образом, данные из полей вашей формы будут перенесены в созданный "
+#~ "заказ Woocommerce."
+
+#~ msgid "Default"
+#~ msgstr "По умолчанию"
+
+#~ msgid "Quantity (available in Quasar Form pro)"
+#~ msgstr "Количество (есть в Quasar Form Pro)"
+
+#~ msgid "Empty"
+#~ msgstr "Пусто"
+
+#~ msgid "First name"
+#~ msgstr "Имя"
+
+#~ msgid "Last name"
+#~ msgstr "Фамилия"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Phone"
+#~ msgstr "Телефон"
+
+#~ msgid "Order notes"
+#~ msgstr "Примечания к заказу (комментарий)"
+
+#~ msgid "Address 1"
+#~ msgstr "Адрес 1"
+
+#~ msgid "City"
+#~ msgstr "Город"
+
+#~ msgid "State / Region"
+#~ msgstr "Штат / Регион"
+
+#~ msgid "Company"
+#~ msgstr "Компания"
+
+#~ msgid "Postcode"
+#~ msgstr "Почтовый индекс"
+
+#~ msgid "Country"
+#~ msgstr "Страна"
+
+#~ msgid "Product information"
+#~ msgstr "Информация о товаре"
+
+#~ msgid ""
+#~ "This is how the block with product information will look like in the "
+#~ "quick order form:"
+#~ msgstr ""
+#~ "Вот так будет выглядеть блок с информацией о товаре в форме быстрого "
+#~ "заказа:"
+
+#~ msgid "Variation 1"
+#~ msgstr "Вариация 1"
+
+#~ msgid "Variation 2"
+#~ msgstr "Вариация 2"
+
+#~ msgid "Show product image"
+#~ msgstr "Показать изображение продукта"
+
+#~ msgid "Show product price"
+#~ msgstr "Показать цену товара"
+
+#~ msgid "Show product name"
+#~ msgstr "Показать название продукта"
+
+#~ msgid "Show the choice of product quantity in the order"
+#~ msgstr "Показать выбор количества товара в заказе"
+
+#~ msgid "Text above the price"
+#~ msgstr "Текст над ценой"
+
+#~ msgid "Text above the quantity"
+#~ msgstr "Текст над количеством"
+
+#~ msgid "Sections are boxes of price and quantity."
+#~ msgstr "Секции - это поля с ценой и количеством."
+
+#~ msgid "Font size of the product name"
+#~ msgstr "Размер шрифта в названии продукта"
+
+#~ msgid "Color of product name"
+#~ msgstr "Цвет названия продукта"
+
+#~ msgid "Font size of section headings"
+#~ msgstr "Размер шрифта в секции"
+
+#~ msgid "Color of section heading"
+#~ msgstr "Цвет текста в секции"
+
+#~ msgid "Font size of sections"
+#~ msgstr "Размер шрифта в секции"
+
+#~ msgid "Color of sections"
+#~ msgstr "Цвет текста в секции"
+
+#~ msgid "Color of section background"
+#~ msgstr "Цвет фона в секции"
+
+#~ msgid "Color of section border"
+#~ msgstr "Цвет границы в секции"
+
+#~ msgid ""
+#~ "Note. The design of the button itself is configured in the Quasar Form -> "
+#~ "Design -> Design of popup button"
+#~ msgstr ""
+#~ "Обратите внимание. Дизайн самой кнопки настраивается в плагине Quasar "
+#~ "Form -> Дизайн -> Дизайн кнопки(popup)"
+
+#~ msgid "Margin button: left right top bottom (for categories)"
+#~ msgstr "Отступ от кнопки: слева справа вверху внизу (категории)"
+
+#~ msgid "Margin button: left right top bottom (for card)"
+#~ msgstr "Отступ от кнопки: слева справа вверху внизу (карточка)"
+
+#~ msgid "Variations design:"
+#~ msgstr "Дизайн вариаций:"
+
+#~ msgid "Variation picklist type"
+#~ msgstr "Тип списка выбора вариаций"
+
+#~ msgid "The variations have images"
+#~ msgstr "В вариациях есть изображения"
+
+#~ msgid "Box size"
+#~ msgstr "Размер бокса"
+
+#~ msgid "Default option text"
+#~ msgstr "Текст опции по умолчанию"
+
+#~ msgid "Required to fill"
+#~ msgstr "Требуется заполнить"
+
+#~ msgid "Required"
+#~ msgstr "Обязательно"
+
+#~ msgid "No such variation"
+#~ msgstr "Нет такой вариации"
+
+#~ msgid "Product with this set of options is out of stock"
+#~ msgstr "Товара с этим набором опций нет в наличии"
+
+#~ msgid ""
+#~ "Note. The text from messages you receive by email is configurable in the "
+#~ "Quasar form plugin -> Setting -> Frontend text/localization"
+#~ msgstr ""
+#~ "Обратите внимание. Текст из сообщений, которые вы получаете по "
+#~ "электронной почте, настраивается в плагине Quasar Form -> Настройки -> "
+#~ "Локализация текста"
+
+#~ msgid "To work with variable products, you need a Pro version."
+#~ msgstr "Для работы с вариативными товарами вам потребуется Pro версия."
+
+#~ msgid "Text of button"
+#~ msgstr "Текст кнопки"
+
+#~ msgid "State"
+#~ msgstr "Штат/Область"
+
+#~ msgid "Show a selection of the number of products to order"
+#~ msgstr "Показать выбор количества товаров для заказа"
+
+#~ msgid "Font size heading sections"
+#~ msgstr "Размер шрифта заголовков секции"
+
+#~ msgid "Color of heading sections"
+#~ msgstr "Цвет заголовка в секции"
